@@ -1,0 +1,17 @@
+﻿Example 1:
+A single slice from a Z-stack of a whole mount bilaminar disk E11.5 porcine embryo, stained with antibodies specific to TBXT (red), SOX2 (yellow), FOXA2 (green), and the DNA stain DAPI (grey). The red-stained primitive streak is visible in the posterior of the embryo, near the top of the image, with green-stained FOXA2-expressing cells just in front of it. These cells will delaminate and migrate down to intercalate into the hypoblast, forming the DE without passing through the streak. The image was captured on a Zeiss LSM900 with Airyscan confocal microscope at a resolution of 2048x2048 pixels, utilizing a Z-step size of 0.32 µm to facilitate 3D segmentation, quantification, and in silico reconstruction.
+
+Example 2:
+A single slice from a Z-stack of a whole mount bilaminar disk E11.5 porcine embryo, stained with antibodies specific to TBXT (red), TFAP2C (yellow), FOXA2 (green), and the DNA stain DAPI (grey). White arrows highlight cells co-expressing TFAP2C and TBXT, indicative of early-stage primordial germ cells (PGCs). It is hypothesized that these cells are specified at the embryo's boundaries and migrate towards the posterior to form the early PGC cluster. Captured on a Zeiss LSM900 with Airyscan confocal microscope, the image resolution is 2048x2048 pixels, with a Z-step size of 0.32 µm, enabling 3D segmentation, quantification, and in silico reconstruction.
+
+Example 3:
+A single section from a cryosectioned E12 porcine embryo. The embryo was embedded in O.C.T. cutting media, sectioned into 7µm slices, and stained with antibodies specific to TBXT (green), Nanog (yellow), FOXA2 (red), and the DNA stain DAPI (grey). The hypoblast (bottom) is exclusively FOXA2 positive, with some cells towards the middle co-staining with Nanog. The green ingressed mesoderm is solely stained with TBXT, as expected. The image was taken on a Zeiss LSM900 with Airyscan confocal microscope at a resolution of 2048x2048 pixels.
+
+Example 4:
+A single slice from a Z-stack of a whole mount bilaminar disk E10.5 porcine embryo, stained with antibodies specific to TBXT (red) and F-actin (green), along with the DNA stain DAPI (grey). Captured with an Oxford Instruments BC34 benchtop confocal microscope at 40x magnification, the image has undergone digital deconvolution. Notably, individual DNA strands within each nucleus and detailed f-actin strands in each cell membrane are visible.
+
+Example 5:
+An overview of an in vitro 2D drug titration experiment using human H9 cells in a 96-well plate. The cells were stained with TBXT (red), SOX17 (yellow), and FOXA2 (green) to study endoderm differentiation. Each sub-image comprises 36 stitched individual images taken at 10x magnification. The wells were segmented for the quantification of this experiment. This image was captured with a Zeiss CD7 Cell Discovery confocal plate reader.
+
+Example 6:
+An example figure showcasing a range of whole mount embryos (a and b), sections (d and e), and in silico reconstructions (c).
